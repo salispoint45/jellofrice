@@ -19,3 +19,4 @@
 # 5. What does the variable bacon contain after running the the code below
 bacon = 20 #The bacon is set to 20
 bacon + 1 #  Expresion does not reassign the value in bacon it means that would need an assignment statement: bacon = bacon +1
+###
